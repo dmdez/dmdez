@@ -5,7 +5,7 @@ https://dmdez.github.io/
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dmmendez/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmmendez)
 
-I'm currently working as a Sr. Developer at [<img src="https://assets.website-files.com/5b6b50e79e9b6f5948395973/5f238facc91bd64a3ea83d8e_crema-logo%201.svg" width="50" alt="Crema" />](https://crema.us/), an awesome company based out of Kansas City.
+I'm currently working as a Sr. Developer at [<img src="https://github.com/user-attachments/assets/ae6b13f8-cba5-438f-920c-e4a555d5846c" width="50" alt="Crema" />](https://crema.us/), an awesome company based out of Kansas City.
 
 I've been working in the tech industry since 2000 after earning an Associates Degree in a unique Web Applications Program at Kansas City Kansas Community College.  In that time period, I learned a ton of tech including:
 
